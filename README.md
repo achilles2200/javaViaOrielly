@@ -1,2 +1,3 @@
 # javaViaOrielly
 my Java 
+I will be working with java scirpting and also msyql projects...
